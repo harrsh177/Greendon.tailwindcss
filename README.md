@@ -22,4 +22,4 @@ This is a simple multi-page website built using **Tailwind CSS**.
 - Tailwind CSS  
 
 
-Created with ❤️ using Tailwind CSS
+Created with using Tailwind CSS
